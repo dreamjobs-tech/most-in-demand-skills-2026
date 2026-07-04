@@ -1,0 +1,251 @@
+skill,postings_with_skill,pct_of_all_postings
+communication,83239,23.09
+ai,71253,19.77
+python,67062,18.6
+sql,42078,11.67
+aws,40549,11.25
+leadership,40327,11.19
+java,37811,10.49
+analytical,34247,9.5
+javascript,31397,8.71
+security,31281,8.68
+git,29551,8.2
+azure,29427,8.16
+collaboration,27868,7.73
+compliance,27025,7.5
+attention to detail,26985,7.49
+automation,26524,7.36
+data,26290,7.29
+docker,25151,6.98
+kubernetes,24384,6.76
+ci/cd pipelines,24057,6.67
+react,24031,6.67
+performance,22656,6.28
+testing,20284,5.63
+ci/cd,19682,5.46
+marketing,19643,5.45
+excel,19525,5.42
+typescript,18925,5.25
+devops,17824,4.94
+analytics,17479,4.85
+design,17169,4.76
+gcp,16800,4.66
+development,16641,4.62
+software,15634,4.34
+microservices,15275,4.24
+css,15250,4.23
+machine learning,15117,4.19
+finance,14997,4.16
+cloud,14328,3.97
+angular,14311,3.97
+html,14272,3.96
+analytical skills,14230,3.95
+postgresql,14068,3.9
+business,13375,3.71
+software development,13275,3.68
+governance,13269,3.68
+agile,13255,3.68
+written communication,12935,3.59
+node.js,12783,3.55
+stakeholder management,12776,3.54
+documentation,12588,3.49
+rest apis,12402,3.44
+mysql,12320,3.42
+jenkins,12298,3.41
+terraform,12151,3.37
+jira,11923,3.31
+power bi,11874,3.29
+go,11769,3.26
+verbal communication,11737,3.26
+project management,11361,3.15
+data analysis,11130,3.09
+restful apis,11084,3.07
+spring boot,10687,2.96
+data engineering,10357,2.87
+github,10352,2.87
+sap,10308,2.86
+systems,10264,2.85
+mentoring,10005,2.78
+engineering,9916,2.75
+troubleshooting,9888,2.74
+healthcare,9872,2.74
+kafka,9806,2.72
+customer service,9773,2.71
+oracle,9765,2.71
+technical leadership,9745,2.7
+data science,9555,2.65
+networking,9508,2.64
+problem solving,9242,2.56
+management,9119,2.53
+linux,8981,2.49
+accounting,8977,2.49
+crm,8911,2.47
+.net,8867,2.46
+rest,8828,2.45
+llm,8826,2.45
+mongodb,8793,2.44
+quality,8767,2.43
+training,8689,2.41
+cybersecurity,8652,2.4
+quality assurance,8510,2.36
+monitoring,8163,2.26
+organization,8109,2.25
+control,8047,2.23
+risk management,8041,2.23
+software engineering,8008,2.22
+platform,7918,2.2
+cloud platforms,7842,2.18
+tableau,7820,2.17
+distributed systems,7781,2.16
+digital marketing,7639,2.12
+apis,7631,2.12
+html5,7597,2.11
+services,7585,2.1
+ai/ml,7580,2.1
+debugging,7522,2.09
+generative ai,7501,2.08
+powerpoint,7435,2.06
+communication skills,7352,2.04
+optimization,7262,2.01
+architecture,7186,1.99
+azure devops,7121,1.98
+github actions,7052,1.96
+infrastructure,7020,1.95
+sql server,7002,1.94
+microservices architecture,6919,1.92
+saas,6667,1.85
+ownership,6661,1.85
+agile methodologies,6632,1.84
+salesforce,6556,1.82
+pytorch,6533,1.81
+presentation,6516,1.81
+supply chain,6493,1.8
+databricks,6479,1.8
+llms,6443,1.79
+driven,6439,1.79
+customer,6429,1.78
+teamwork,6413,1.78
+react.js,6352,1.76
+scrum,6333,1.76
+procurement,6316,1.75
+banking,6298,1.75
+analysis,6298,1.75
+clinical,6289,1.74
+css3,6249,1.73
+financial services,6237,1.73
+algorithms,6114,1.7
+data modeling,6101,1.69
+snowflake,6059,1.68
+integration,6012,1.67
+json,5964,1.65
+service,5900,1.64
+recruitment,5899,1.64
+seo,5895,1.64
+root cause analysis,5875,1.63
+prompt engineering,5862,1.63
+tensorflow,5849,1.62
+data governance,5767,1.6
+data analytics,5743,1.59
+s3,5694,1.58
+artificial intelligence,5650,1.57
+rag,5636,1.56
+data management,5593,1.55
+business development,5566,1.54
+effective communication,5488,1.52
+spark,5482,1.52
+fastapi,5367,1.49
+databases,5312,1.47
+php,5306,1.47
+grafana,5298,1.47
+enterprise,5296,1.47
+digital,5289,1.47
+langchain,5253,1.46
+logistics,5248,1.46
+nosql,5229,1.45
+data quality,5189,1.44
+sales,5183,1.44
+retail,5097,1.41
+code,5074,1.41
+communication and collaboration,4988,1.38
+digital transformation,4967,1.38
+web,4962,1.38
+data structures,4927,1.37
+sdlc,4926,1.37
+safe,4924,1.37
+bi,4922,1.37
+next.js,4910,1.36
+social media,4867,1.35
+analytical thinking,4839,1.34
+equipment,4828,1.34
+medical,4796,1.33
+writing,4754,1.32
+bash,4754,1.32
+web development,4743,1.32
+redis,4697,1.3
+negotiation,4668,1.29
+ansible,4662,1.29
+scripting,4650,1.29
+selenium,4648,1.29
+understanding,4645,1.29
+dashboards,4643,1.29
+linkedin,4642,1.29
+knowledge,4603,1.28
+fintech,4566,1.27
+observability,4557,1.26
+etl,4553,1.26
+incident response,4550,1.26
+android,4535,1.26
+genai,4456,1.24
+graphql,4456,1.24
+risk,4404,1.22
+devops practices,4397,1.22
+gitlab,4396,1.22
+cloud infrastructure,4395,1.22
+prometheus,4386,1.22
+email,4383,1.22
+lambda,4374,1.21
+build,4373,1.21
+data pipelines,4308,1.2
+spring,4296,1.19
+statistics,4281,1.19
+powershell,4267,1.18
+forecasting,4259,1.18
+microsoft azure,4252,1.18
+iam,4244,1.18
+strategic,4232,1.17
+insurance,4229,1.17
+applications,4168,1.16
+legal,4164,1.16
+api,4144,1.15
+servicenow,4144,1.15
+platforms,4110,1.14
+application development,4107,1.14
+autocad,4103,1.14
+django,4092,1.14
+reports,4083,1.13
+mentorship,4029,1.12
+kotlin,3991,1.11
+ms excel,3959,1.1
+pricing,3956,1.1
+ios,3954,1.1
+construction,3937,1.09
+computer science,3928,1.09
+administration,3912,1.09
+design patterns,3872,1.07
+change management,3871,1.07
+system design,3858,1.07
+deep learning,3809,1.06
+video,3806,1.06
+standards,3805,1.06
+test automation,3799,1.05
+es,3776,1.05
+business intelligence,3765,1.04
+qa,3759,1.04
+microsoft office,3756,1.04
+postman,3744,1.04
+playwright,3738,1.04
+siem,3736,1.04
+inventory,3735,1.04
+payments,3724,1.03
+google cloud,3717,1.03
+government,3696,1.03

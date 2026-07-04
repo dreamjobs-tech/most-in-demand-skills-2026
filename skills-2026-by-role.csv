@@ -1,0 +1,451 @@
+role_family,role_postings,skill,postings_with_skill,pct_of_role
+Software Engineer,38762,java,12200,31.47
+Software Engineer,38762,python,12095,31.2
+Software Engineer,38762,ai,10304,26.58
+Software Engineer,38762,aws,8281,21.36
+Software Engineer,38762,react,6977,18.0
+Software Engineer,38762,javascript,6930,17.88
+Software Engineer,38762,docker,6643,17.14
+Software Engineer,38762,kubernetes,6575,16.96
+Software Engineer,38762,software,6368,16.43
+Software Engineer,38762,git,6186,15.96
+Software Engineer,38762,sql,6054,15.62
+Software Engineer,38762,communication,6019,15.53
+Software Engineer,38762,software development,5841,15.07
+Software Engineer,38762,typescript,5683,14.66
+Software Engineer,38762,ci/cd pipelines,4958,12.79
+Software Engineer,38762,microservices,4856,12.53
+Software Engineer,38762,azure,4826,12.45
+Software Engineer,38762,ci/cd,4682,12.08
+Software Engineer,38762,angular,4012,10.35
+Software Engineer,38762,collaboration,3841,9.91
+Software Engineer,38762,security,3820,9.86
+Software Engineer,38762,spring boot,3773,9.73
+Software Engineer,38762,development,3574,9.22
+Software Engineer,38762,design,3521,9.08
+Software Engineer,38762,testing,3477,8.97
+Software Engineer,38762,postgresql,3421,8.83
+Software Engineer,38762,software engineering,3353,8.65
+Software Engineer,38762,gcp,3221,8.31
+Software Engineer,38762,automation,3212,8.29
+Software Engineer,38762,data,3114,8.03
+Security,11981,security,8616,71.91
+Security,11981,cybersecurity,4541,37.9
+Security,11981,siem,2908,24.27
+Security,11981,incident response,2792,23.3
+Security,11981,compliance,2541,21.21
+Security,11981,cyber security,2439,20.36
+Security,11981,communication,2023,16.89
+Security,11981,information security,1908,15.93
+Security,11981,ai,1889,15.77
+Security,11981,python,1868,15.59
+Security,11981,aws,1725,14.4
+Security,11981,cloud security,1696,14.16
+Security,11981,azure,1469,12.26
+Security,11981,network security,1455,12.14
+Security,11981,vulnerability management,1450,12.1
+Security,11981,firewalls,1405,11.73
+Security,11981,analytical,1365,11.39
+Security,11981,iso 27001,1326,11.07
+Security,11981,leadership,1293,10.79
+Security,11981,threats,1289,10.76
+Security,11981,security operations,1208,10.08
+Security,11981,edr,1153,9.62
+Security,11981,risk management,1115,9.31
+Security,11981,data,1066,8.9
+Security,11981,splunk,1041,8.69
+Security,11981,cissp,1033,8.62
+Security,11981,monitoring,1008,8.41
+Security,11981,automation,1004,8.38
+Security,11981,nist,995,8.3
+Security,11981,incidents,994,8.3
+Data Scientist / ML,11871,python,8290,69.83
+Data Scientist / ML,11871,ai,7565,63.73
+Data Scientist / ML,11871,machine learning,5755,48.48
+Data Scientist / ML,11871,pytorch,3598,30.31
+Data Scientist / ML,11871,tensorflow,3251,27.39
+Data Scientist / ML,11871,data science,3151,26.54
+Data Scientist / ML,11871,aws,3084,25.98
+Data Scientist / ML,11871,sql,2875,24.22
+Data Scientist / ML,11871,deep learning,2379,20.04
+Data Scientist / ML,11871,azure,2308,19.44
+Data Scientist / ML,11871,ai/ml,2269,19.11
+Data Scientist / ML,11871,generative ai,2191,18.46
+Data Scientist / ML,11871,llm,2155,18.15
+Data Scientist / ML,11871,langchain,2152,18.13
+Data Scientist / ML,11871,rag,2137,18.0
+Data Scientist / ML,11871,llms,2074,17.47
+Data Scientist / ML,11871,data,2010,16.93
+Data Scientist / ML,11871,scikit,1904,16.04
+Data Scientist / ML,11871,communication,1822,15.35
+Data Scientist / ML,11871,gcp,1739,14.65
+Data Scientist / ML,11871,prompt engineering,1729,14.56
+Data Scientist / ML,11871,docker,1699,14.31
+Data Scientist / ML,11871,machine learning models,1508,12.7
+Data Scientist / ML,11871,nlp,1469,12.37
+Data Scientist / ML,11871,kubernetes,1369,11.53
+Data Scientist / ML,11871,ci/cd,1346,11.34
+Data Scientist / ML,11871,analytical,1328,11.19
+Data Scientist / ML,11871,mlops,1323,11.14
+Data Scientist / ML,11871,pandas,1293,10.89
+Data Scientist / ML,11871,vector databases,1272,10.72
+Full Stack,11752,react,5075,43.18
+Full Stack,11752,javascript,4083,34.74
+Full Stack,11752,angular,3699,31.48
+Full Stack,11752,ai,3605,30.68
+Full Stack,11752,java,3540,30.12
+Full Stack,11752,python,3508,29.85
+Full Stack,11752,aws,3326,28.3
+Full Stack,11752,typescript,3318,28.23
+Full Stack,11752,node.js,3244,27.6
+Full Stack,11752,git,3185,27.1
+Full Stack,11752,docker,2873,24.45
+Full Stack,11752,postgresql,2666,22.69
+Full Stack,11752,azure,2464,20.97
+Full Stack,11752,sql,2436,20.73
+Full Stack,11752,ci/cd pipelines,2430,20.68
+Full Stack,11752,css,2322,19.76
+Full Stack,11752,mysql,2104,17.9
+Full Stack,11752,html,2060,17.53
+Full Stack,11752,communication,2018,17.17
+Full Stack,11752,mongodb,2011,17.11
+Full Stack,11752,microservices,1975,16.81
+Full Stack,11752,restful apis,1964,16.71
+Full Stack,11752,kubernetes,1931,16.43
+Full Stack,11752,rest apis,1885,16.04
+Full Stack,11752,spring boot,1847,15.72
+Full Stack,11752,react.js,1787,15.21
+Full Stack,11752,full stack,1632,13.89
+Full Stack,11752,ci/cd,1557,13.25
+Full Stack,11752,devops,1497,12.74
+Full Stack,11752,next.js,1382,11.76
+Backend,10896,python,4327,39.71
+Backend,10896,java,4033,37.01
+Backend,10896,docker,3239,29.73
+Backend,10896,aws,3218,29.53
+Backend,10896,git,3076,28.23
+Backend,10896,sql,2745,25.19
+Backend,10896,postgresql,2637,24.2
+Backend,10896,mysql,2474,22.71
+Backend,10896,ai,2471,22.68
+Backend,10896,kubernetes,2372,21.77
+Backend,10896,microservices,2322,21.31
+Backend,10896,spring boot,2233,20.49
+Backend,10896,ci/cd pipelines,2069,18.99
+Backend,10896,javascript,1911,17.54
+Backend,10896,restful apis,1865,17.12
+Backend,10896,rest apis,1833,16.82
+Backend,10896,node.js,1828,16.78
+Backend,10896,azure,1751,16.07
+Backend,10896,mongodb,1714,15.73
+Backend,10896,communication,1659,15.23
+Backend,10896,kafka,1442,13.23
+Backend,10896,ci/cd,1373,12.6
+Backend,10896,microservices architecture,1357,12.45
+Backend,10896,gcp,1309,12.01
+Backend,10896,react,1298,11.91
+Backend,10896,fastapi,1243,11.41
+Backend,10896,typescript,1218,11.18
+Backend,10896,devops,1136,10.43
+Backend,10896,redis,1092,10.02
+Backend,10896,django,1077,9.88
+DevOps / Cloud / SRE,10548,terraform,4606,43.67
+DevOps / Cloud / SRE,10548,devops,4573,43.35
+DevOps / Cloud / SRE,10548,kubernetes,4534,42.98
+DevOps / Cloud / SRE,10548,aws,4366,41.39
+DevOps / Cloud / SRE,10548,python,4095,38.82
+DevOps / Cloud / SRE,10548,ci/cd pipelines,3414,32.37
+DevOps / Cloud / SRE,10548,azure,3224,30.57
+DevOps / Cloud / SRE,10548,docker,2914,27.63
+DevOps / Cloud / SRE,10548,security,2635,24.98
+DevOps / Cloud / SRE,10548,ci/cd,2591,24.56
+DevOps / Cloud / SRE,10548,ai,2413,22.88
+DevOps / Cloud / SRE,10548,automation,2394,22.7
+DevOps / Cloud / SRE,10548,jenkins,2352,22.3
+DevOps / Cloud / SRE,10548,grafana,2063,19.56
+DevOps / Cloud / SRE,10548,ansible,2035,19.29
+DevOps / Cloud / SRE,10548,prometheus,1969,18.67
+DevOps / Cloud / SRE,10548,bash,1969,18.67
+DevOps / Cloud / SRE,10548,gcp,1802,17.08
+DevOps / Cloud / SRE,10548,networking,1638,15.53
+DevOps / Cloud / SRE,10548,github actions,1632,15.47
+DevOps / Cloud / SRE,10548,infrastructure,1576,14.94
+DevOps / Cloud / SRE,10548,communication,1517,14.38
+DevOps / Cloud / SRE,10548,infrastructure as code,1482,14.05
+DevOps / Cloud / SRE,10548,cloud,1466,13.9
+DevOps / Cloud / SRE,10548,cloud infrastructure,1449,13.74
+DevOps / Cloud / SRE,10548,git,1345,12.75
+DevOps / Cloud / SRE,10548,linux,1278,12.12
+DevOps / Cloud / SRE,10548,java,1163,11.03
+DevOps / Cloud / SRE,10548,azure devops,1160,11.0
+DevOps / Cloud / SRE,10548,monitoring,1109,10.51
+Data Analyst / BI,9677,sql,5283,54.59
+Data Analyst / BI,9677,power bi,4092,42.29
+Data Analyst / BI,9677,analytics,3900,40.3
+Data Analyst / BI,9677,python,3592,37.12
+Data Analyst / BI,9677,tableau,2804,28.98
+Data Analyst / BI,9677,analytical,2621,27.08
+Data Analyst / BI,9677,communication,2513,25.97
+Data Analyst / BI,9677,data analysis,2421,25.02
+Data Analyst / BI,9677,ai,1969,20.35
+Data Analyst / BI,9677,excel,1916,19.8
+Data Analyst / BI,9677,data,1902,19.65
+Data Analyst / BI,9677,bi,1900,19.63
+Data Analyst / BI,9677,data analytics,1797,18.57
+Data Analyst / BI,9677,business intelligence,1710,17.67
+Data Analyst / BI,9677,data analyst,1376,14.22
+Data Analyst / BI,9677,data modeling,1222,12.63
+Data Analyst / BI,9677,leadership,1175,12.14
+Data Analyst / BI,9677,data science,1163,12.02
+Data Analyst / BI,9677,data engineering,1163,12.02
+Data Analyst / BI,9677,attention to detail,1150,11.88
+Data Analyst / BI,9677,dax,1023,10.57
+Data Analyst / BI,9677,snowflake,1001,10.34
+Data Analyst / BI,9677,data visualization,996,10.29
+Data Analyst / BI,9677,statistics,981,10.14
+Data Analyst / BI,9677,business,940,9.71
+Data Analyst / BI,9677,data governance,924,9.55
+Data Analyst / BI,9677,dashboards,839,8.67
+Data Analyst / BI,9677,governance,838,8.66
+Data Analyst / BI,9677,marketing,819,8.46
+Data Analyst / BI,9677,finance,784,8.1
+Frontend,8706,javascript,5273,60.57
+Frontend,8706,react,4160,47.78
+Frontend,8706,css,3616,41.53
+Frontend,8706,typescript,3285,37.73
+Frontend,8706,html,3111,35.73
+Frontend,8706,git,2618,30.07
+Frontend,8706,html5,2041,23.44
+Frontend,8706,css3,1787,20.53
+Frontend,8706,angular,1722,19.78
+Frontend,8706,ai,1661,19.08
+Frontend,8706,react.js,1298,14.91
+Frontend,8706,communication,1289,14.81
+Frontend,8706,web development,1215,13.96
+Frontend,8706,next.js,1196,13.74
+Frontend,8706,redux,1085,12.46
+Frontend,8706,performance,1069,12.28
+Frontend,8706,responsive design,1027,11.8
+Frontend,8706,design,1024,11.76
+Frontend,8706,restful apis,1011,11.61
+Frontend,8706,frontend,1004,11.53
+Frontend,8706,jest,980,11.26
+Frontend,8706,attention to detail,976,11.21
+Frontend,8706,development,969,11.13
+Frontend,8706,web,945,10.85
+Frontend,8706,node.js,933,10.72
+Frontend,8706,accessibility,893,10.26
+Frontend,8706,figma,849,9.75
+Frontend,8706,ci/cd pipelines,842,9.67
+Frontend,8706,python,818,9.4
+Frontend,8706,vue.js,786,9.03
+Data Engineer,7499,python,4738,63.18
+Data Engineer,7499,sql,4671,62.29
+Data Engineer,7499,data engineering,4056,54.09
+Data Engineer,7499,aws,2433,32.44
+Data Engineer,7499,azure,2078,27.71
+Data Engineer,7499,ai,1995,26.6
+Data Engineer,7499,databricks,1953,26.04
+Data Engineer,7499,data,1885,25.14
+Data Engineer,7499,spark,1802,24.03
+Data Engineer,7499,analytics,1724,22.99
+Data Engineer,7499,snowflake,1671,22.28
+Data Engineer,7499,etl,1659,22.12
+Data Engineer,7499,data pipelines,1566,20.88
+Data Engineer,7499,data governance,1487,19.83
+Data Engineer,7499,pyspark,1423,18.98
+Data Engineer,7499,data modeling,1382,18.43
+Data Engineer,7499,data quality,1368,18.24
+Data Engineer,7499,airflow,1261,16.82
+Data Engineer,7499,communication,1221,16.28
+Data Engineer,7499,ci/cd,1209,16.12
+Data Engineer,7499,gcp,1159,15.46
+Data Engineer,7499,git,1102,14.7
+Data Engineer,7499,java,1077,14.36
+Data Engineer,7499,kafka,1039,13.86
+Data Engineer,7499,data integration,987,13.16
+Data Engineer,7499,dbt,986,13.15
+Data Engineer,7499,scala,985,13.14
+Data Engineer,7499,governance,894,11.92
+Data Engineer,7499,data warehousing,860,11.47
+Data Engineer,7499,machine learning,836,11.15
+QA / Test,6760,testing,2614,38.67
+QA / Test,6760,automation,1980,29.29
+QA / Test,6760,selenium,1822,26.95
+QA / Test,6760,quality assurance,1778,26.3
+QA / Test,6760,jira,1687,24.96
+QA / Test,6760,communication,1676,24.79
+QA / Test,6760,python,1638,24.23
+QA / Test,6760,postman,1572,23.25
+QA / Test,6760,java,1562,23.11
+QA / Test,6760,analytical,1393,20.61
+QA / Test,6760,playwright,1336,19.76
+QA / Test,6760,qa,1222,18.08
+QA / Test,6760,ci/cd pipelines,1197,17.71
+QA / Test,6760,api testing,1156,17.1
+QA / Test,6760,ai,1101,16.29
+QA / Test,6760,test automation,1057,15.64
+QA / Test,6760,javascript,1026,15.18
+QA / Test,6760,jenkins,985,14.57
+QA / Test,6760,sql,945,13.98
+QA / Test,6760,attention to detail,890,13.17
+QA / Test,6760,git,816,12.07
+QA / Test,6760,automation testing,797,11.79
+QA / Test,6760,cypress,742,10.98
+QA / Test,6760,quality,741,10.96
+QA / Test,6760,performance testing,644,9.53
+QA / Test,6760,compliance,617,9.13
+QA / Test,6760,agile,613,9.07
+QA / Test,6760,azure devops,577,8.54
+QA / Test,6760,performance,576,8.52
+QA / Test,6760,sdlc,570,8.43
+Business Analyst,4740,communication,1895,39.98
+Business Analyst,4740,analytical,1500,31.65
+Business Analyst,4740,business analysis,1284,27.09
+Business Analyst,4740,sql,1007,21.24
+Business Analyst,4740,excel,934,19.7
+Business Analyst,4740,ai,905,19.09
+Business Analyst,4740,stakeholder management,826,17.43
+Business Analyst,4740,business,806,17.0
+Business Analyst,4740,jira,783,16.52
+Business Analyst,4740,analytical skills,638,13.46
+Business Analyst,4740,agile,636,13.42
+Business Analyst,4740,data analysis,552,11.65
+Business Analyst,4740,power bi,532,11.22
+Business Analyst,4740,finance,473,9.98
+Business Analyst,4740,leadership,452,9.54
+Business Analyst,4740,documentation,440,9.28
+Business Analyst,4740,data,421,8.88
+Business Analyst,4740,tableau,419,8.84
+Business Analyst,4740,confluence,387,8.16
+Business Analyst,4740,attention to detail,375,7.91
+Business Analyst,4740,collaboration,358,7.55
+Business Analyst,4740,testing,356,7.51
+Business Analyst,4740,project management,337,7.11
+Business Analyst,4740,analytics,322,6.79
+Business Analyst,4740,english,322,6.79
+Business Analyst,4740,scrum,317,6.69
+Business Analyst,4740,chatgpt,314,6.62
+Business Analyst,4740,communication and collaboration,311,6.56
+Business Analyst,4740,data interpretation,305,6.43
+Business Analyst,4740,email,302,6.37
+Designer (UX/UI),4275,figma,1268,29.66
+Designer (UX/UI),4275,communication,1226,28.68
+Designer (UX/UI),4275,ai,986,23.06
+Designer (UX/UI),4275,attention to detail,802,18.76
+Designer (UX/UI),4275,photoshop,711,16.63
+Designer (UX/UI),4275,illustrator,684,16.0
+Designer (UX/UI),4275,design,662,15.49
+Designer (UX/UI),4275,typography,619,14.48
+Designer (UX/UI),4275,marketing,579,13.54
+Designer (UX/UI),4275,graphic design,542,12.68
+Designer (UX/UI),4275,adobe photoshop,536,12.54
+Designer (UX/UI),4275,design systems,492,11.51
+Designer (UX/UI),4275,adobe xd,477,11.16
+Designer (UX/UI),4275,branding,466,10.9
+Designer (UX/UI),4275,social media,445,10.41
+Designer (UX/UI),4275,canva,436,10.2
+Designer (UX/UI),4275,collaboration,431,10.08
+Designer (UX/UI),4275,user research,430,10.06
+Designer (UX/UI),4275,adobe creative suite,424,9.92
+Designer (UX/UI),4275,autocad,420,9.82
+Designer (UX/UI),4275,css,402,9.4
+Designer (UX/UI),4275,html,400,9.36
+Designer (UX/UI),4275,ui/ux,393,9.19
+Designer (UX/UI),4275,motion graphics,380,8.89
+Designer (UX/UI),4275,javascript,371,8.68
+Designer (UX/UI),4275,layout,365,8.54
+Designer (UX/UI),4275,ux,363,8.49
+Designer (UX/UI),4275,color theory,349,8.16
+Designer (UX/UI),4275,usability testing,347,8.12
+Designer (UX/UI),4275,ui/ux design,346,8.09
+Project / Program Mgr,3431,communication,1392,40.57
+Project / Program Mgr,3431,project management,1376,40.1
+Project / Program Mgr,3431,leadership,1139,33.2
+Project / Program Mgr,3431,stakeholder management,645,18.8
+Project / Program Mgr,3431,ai,564,16.44
+Project / Program Mgr,3431,agile,547,15.94
+Project / Program Mgr,3431,jira,493,14.37
+Project / Program Mgr,3431,risk management,404,11.77
+Project / Program Mgr,3431,collaboration,375,10.93
+Project / Program Mgr,3431,scrum,347,10.11
+Project / Program Mgr,3431,compliance,345,10.06
+Project / Program Mgr,3431,governance,318,9.27
+Project / Program Mgr,3431,automation,292,8.51
+Project / Program Mgr,3431,analytical,276,8.04
+Project / Program Mgr,3431,program management,260,7.58
+Project / Program Mgr,3431,construction,236,6.88
+Project / Program Mgr,3431,attention to detail,232,6.76
+Project / Program Mgr,3431,ms project,232,6.76
+Project / Program Mgr,3431,scrum master,225,6.56
+Project / Program Mgr,3431,project management tools,224,6.53
+Project / Program Mgr,3431,procurement,221,6.44
+Project / Program Mgr,3431,change management,210,6.12
+Project / Program Mgr,3431,excel,191,5.57
+Project / Program Mgr,3431,supply chain,186,5.42
+Project / Program Mgr,3431,finance,183,5.33
+Project / Program Mgr,3431,data,173,5.04
+Project / Program Mgr,3431,business,170,4.95
+Project / Program Mgr,3431,aws,166,4.84
+Project / Program Mgr,3431,marketing,162,4.72
+Project / Program Mgr,3431,software development,159,4.63
+Product Manager,3065,ai,1136,37.06
+Product Manager,3065,product management,904,29.49
+Product Manager,3065,communication,879,28.68
+Product Manager,3065,leadership,617,20.13
+Product Manager,3065,data,439,14.32
+Product Manager,3065,analytical,402,13.12
+Product Manager,3065,stakeholder management,378,12.33
+Product Manager,3065,marketing,341,11.13
+Product Manager,3065,collaboration,328,10.7
+Product Manager,3065,product strategy,317,10.34
+Product Manager,3065,jira,308,10.05
+Product Manager,3065,analytics,283,9.23
+Product Manager,3065,go,281,9.17
+Product Manager,3065,agile,274,8.94
+Product Manager,3065,sql,270,8.81
+Product Manager,3065,compliance,255,8.32
+Product Manager,3065,fintech,242,7.9
+Product Manager,3065,analytical skills,225,7.34
+Product Manager,3065,automation,216,7.05
+Product Manager,3065,business,216,7.05
+Product Manager,3065,market research,193,6.3
+Product Manager,3065,saas,192,6.26
+Product Manager,3065,finance,184,6.0
+Product Manager,3065,product development,178,5.81
+Product Manager,3065,ai/ml,174,5.68
+Product Manager,3065,scrum,171,5.58
+Product Manager,3065,governance,170,5.55
+Product Manager,3065,product roadmap,163,5.32
+Product Manager,3065,data science,158,5.15
+Product Manager,3065,engineering,158,5.15
+Mobile,2904,android,1405,48.38
+Mobile,2904,ios,1171,40.32
+Mobile,2904,kotlin,1155,39.77
+Mobile,2904,git,951,32.75
+Mobile,2904,react native,892,30.72
+Mobile,2904,swift,833,28.68
+Mobile,2904,flutter,753,25.93
+Mobile,2904,java,751,25.86
+Mobile,2904,firebase,679,23.38
+Mobile,2904,rest apis,660,22.73
+Mobile,2904,communication,635,21.87
+Mobile,2904,restful apis,536,18.46
+Mobile,2904,dart,507,17.46
+Mobile,2904,javascript,486,16.74
+Mobile,2904,mvvm,455,15.67
+Mobile,2904,xcode,444,15.29
+Mobile,2904,typescript,435,14.98
+Mobile,2904,android studio,421,14.5
+Mobile,2904,ai,417,14.36
+Mobile,2904,ci/cd pipelines,400,13.77
+Mobile,2904,react,361,12.43
+Mobile,2904,redux,359,12.36
+Mobile,2904,mobile development,358,12.33
+Mobile,2904,json,312,10.74
+Mobile,2904,android development,306,10.54
+Mobile,2904,jetpack compose,301,10.37
+Mobile,2904,mobile,298,10.26
+Mobile,2904,debugging,281,9.68
+Mobile,2904,state management,254,8.75
+Mobile,2904,android sdk,251,8.64
