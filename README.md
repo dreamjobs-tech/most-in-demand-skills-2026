@@ -1,10 +1,12 @@
 # Most In-Demand Job Skills of 2026
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21204423.svg)](https://doi.org/10.5281/zenodo.21204423)
 
 Skill-demand frequencies extracted from **360,000+ job postings** collected by [Qarera](https://www.qarera.com) between **December 27, 2025 and June 16, 2026**.
 
 - 📊 **Full report & charts:** [The Most In-Demand Skills of 2026](https://www.qarera.com/reports/most-in-demand-skills-2026)
+- 🔖 **Cite (DOI):** [10.5281/zenodo.21204423](https://doi.org/10.5281/zenodo.21204423)
 - 🤗 **Hugging Face:** [yash2111/most-in-demand-skills-2026](https://huggingface.co/datasets/yash2111/most-in-demand-skills-2026)
 - 📦 **Kaggle:** [alpha21/most-in-demand-job-skills-2026](https://www.kaggle.com/datasets/alpha21/most-in-demand-job-skills-2026)
 - 📄 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use with attribution to Qarera.
@@ -49,15 +51,17 @@ Skills were extracted and standardized from each job description. A single posti
 
 ## Citation
 
-> *Source: Qarera analysis of 360,000+ job postings (2026), https://www.qarera.com/reports/most-in-demand-skills-2026. CC BY 4.0.*
+> *Qarera (2026). The Most In-Demand Job Skills of 2026: Skill-Demand Frequencies from 360,336 Job Postings [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21204423. CC BY 4.0.*
 
 ```bibtex
 @misc{qarera2026skills,
-  title   = {The Most In-Demand Skills of 2026},
-  author  = {{Qarera}},
-  year    = {2026},
-  url     = {https://www.qarera.com/reports/most-in-demand-skills-2026},
-  note    = {Analysis of 360,000+ job postings, Dec 2025--Jun 2026. CC BY 4.0.}
+  title     = {The Most In-Demand Job Skills of 2026: Skill-Demand Frequencies from 360,336 Job Postings},
+  author    = {{Qarera}},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21204423},
+  url       = {https://doi.org/10.5281/zenodo.21204423},
+  note      = {Analysis of 360,000+ job postings, Dec 2025--Jun 2026. CC BY 4.0.}
 }
 ```
 
